@@ -28,10 +28,6 @@ services:
     container_name: postgres
     restart: always
     volumes:
-      - './docker/database:/var/lib/postgresql/data'
-    environment:
-      POSTGRES_DB: 'course_db'
-      POSTGRES_USER: 'admin'
-      POSTGRES_PASSWORD: '123456'
+      - '/var/lib/postgres:/var/lib/postgresql/data'
     ports:
       - '5432:5432'
