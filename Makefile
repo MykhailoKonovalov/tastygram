@@ -5,7 +5,6 @@ build:
 # up application
 up:
 	docker-compose -f docker-compose.yml up -d
-	sudo chmod 777 -R api/*
 
 # first setup application by 1 command
 run:
