@@ -27,11 +27,11 @@ services:
     image: postgres:13.3
     container_name: postgres
     restart: always
-    volumes:
-      - './docker/database:/var/lib/postgresql/data'
     environment:
-      POSTGRES_DB: 'course_db'
-      POSTGRES_USER: 'admin'
+      POSTGRES_DB: 'tastygram_db'
+      POSTGRES_USER: 'root'
       POSTGRES_PASSWORD: '123456'
+    volumes:
+      - '/var/lib/postgres:/var/lib/postgresql/data'
     ports:
       - '5432:5432'
