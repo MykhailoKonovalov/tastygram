@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "main dish"
+  },
+  {
+    "id": 2,
+    "title": "paste",
+    "parent_id": 1
+  },
+  {
+    "id": 3,
+    "title": "meat",
+    "parent_id": 1
+  },
+  {
+    "id": 4,
+    "title": "chicken",
+    "parent_id": 3
+  },
+  {
+    "id": 5,
+    "title": "dessert"
+  },
+  {
+    "id": 6,
+    "title": "soup"
+  },
+  {
+    "id": 7,
+    "title": "salad"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "content": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook pancetta until crispy. 3. Beat eggs and mix with grated Parmesan cheese. 4. Combine spaghetti, pancetta, and egg mixture. 5. Season with salt and pepper to taste.",
+    "preparationTime": 20,
+    "portions": 4,
+    "user": "user@gmail.com",
+    "category_id": 1,
+    "ingredients": [
+      [
+        {
+          "quantity": 200,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 1,
+            "title": "spaghetti"
+          }
+        },
+        {
+          "quantity": 100,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 2,
+            "title": "pancetta"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 2,
+            "title": "unit"
+          },
+          "ingredient": {
+            "id": 3,
+            "title": "egg"
+          }
+        },
+        {
+          "quantity": 50,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 4,
+            "title": "Parmesan cheese"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 5,
+            "title": "salt"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 6,
+            "title": "pepper"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Chicken Curry",
+    "content": "1. Sauté onions, garlic, and ginger in a pot. 2. Add chicken pieces and cook until browned. 3. Stir in curry powder, coconut milk, and diced tomatoes. 4. Simmer until chicken is fully cooked. 5. Serve with rice.",
+    "preparationTime": 40,
+    "portions": 4,
+    "user": "user@gmail.com",
+    "category_id": 2,
+    "ingredients": [
+      [
+        {
+          "quantity": 500,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 7,
+            "title": "chicken breast"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "unit"
+          },
+          "ingredient": {
+            "id": 8,
+            "title": "onion"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 6,
+            "title": "clove"
+          },
+          "ingredient": {
+            "id": 9,
+            "title": "garlic"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "tablespoon"
+          },
+          "ingredient": {
+            "id": 10,
+            "title": "ginger"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 4,
+            "title": "tablespoon"
+          },
+          "ingredient": {
+            "id": 11,
+            "title": "curry powder"
+          }
+        },
+        {
+          "quantity": 400,
+          "measurement": {
+            "id": 5,
+            "title": "milliliters"
+          },
+          "ingredient": {
+            "id": 12,
+            "title": "coconut milk"
+          }
+        },
+        {
+          "quantity": 400,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 13,
+            "title": "diced tomatoes"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 5,
+            "title": "salt"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 6,
+            "title": "pepper"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "cup"
+          },
+          "ingredient": {
+            "id": 14,
+            "title": "rice"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Chocolate Cake",
+    "content": "1. Preheat oven to 350°F (175°C). 2. Mix flour, sugar, cocoa powder, baking powder, and salt in a bowl. 3. Add eggs, milk, oil, and vanilla extract. 4. Pour batter into a greased baking pan. 5. Bake for 30-35 minutes or until a toothpick comes out clean. 6. Let cool before serving.",
+    "preparationTime": 60,
+    "portions": 8,
+    "user": "user@gmail.com",
+    "category_id": 3,
+    "ingredients": [
+      [
+        {
+          "quantity": 200,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 15,
+            "title": "flour"
+          }
+        },
+        {
+          "quantity": 200,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 16,
+            "title": "sugar"
+          }
+        },
+        {
+          "quantity": 50,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 17,
+            "title": "cocoa powder"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "teaspoon"
+          },
+          "ingredient": {
+            "id": 18,
+            "title": "baking powder"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 5,
+            "title": "salt"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 2,
+            "title": "unit"
+          },
+          "ingredient": {
+            "id": 3,
+            "title": "egg"
+          }
+        },
+        {
+          "quantity": 240,
+          "measurement": {
+            "id": 5,
+            "title": "milliliters"
+          },
+          "ingredient": {
+            "id": 19,
+            "title": "milk"
+          }
+        },
+        {
+          "quantity": 120,
+          "measurement": {
+            "id": 5,
+            "title": "milliliters"
+          },
+          "ingredient": {
+            "id": 20,
+            "title": "vegetable oil"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "teaspoon"
+          },
+          "ingredient": {
+            "id": 21,
+            "title": "vanilla extract"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Caesar Salad",
+    "content": "1. Mix garlic, anchovy paste, lemon juice, Dijon mustard, and Worcestershire sauce in a bowl. 2. Whisk in mayonnaise, Parmesan cheese, salt, and pepper. 3. Toss Romaine lettuce with the dressing. 4. Add croutons and more Parmesan on top. 5. Serve immediately.",
+    "preparationTime": 15,
+    "portions": 4,
+    "user": "user@gmail.com",
+    "category_id": 4,
+    "ingredients": [
+      [
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 6,
+            "title": "clove"
+          },
+          "ingredient": {
+            "id": 9,
+            "title": "garlic"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "teaspoon"
+          },
+          "ingredient": {
+            "id": 22,
+            "title": "anchovy paste"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 2,
+            "title": "tablespoon"
+          },
+          "ingredient": {
+            "id": 23,
+            "title": "lemon juice"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "teaspoon"
+          },
+          "ingredient": {
+            "id": 24,
+            "title": "Dijon mustard"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "teaspoon"
+          },
+          "ingredient": {
+            "id": 25,
+            "title": "Worcestershire sauce"
+          }
+        },
+        {
+          "quantity": 120,
+          "measurement": {
+            "id": 5,
+            "title": "milliliters"
+          },
+          "ingredient": {
+            "id": 26,
+            "title": "mayonnaise"
+          }
+        },
+        {
+          "quantity": 50,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 4,
+            "title": "Parmesan cheese"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 5,
+            "title": "salt"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 6,
+            "title": "pepper"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 12,
+            "title": "bunch"
+          },
+          "ingredient": {
+            "id": 27,
+            "title": "Romaine lettuce"
+          }
+        },
+        {
+          "quantity": 100,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 28,
+            "title": "croutons"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Tomato Basil Soup",
+    "content": "1. Sauté onions and garlic in a pot. 2. Add tomatoes, chicken broth, and basil. 3. Simmer for 30 minutes. 4. Blend until smooth. 5. Season with salt and pepper. 6. Serve with a dollop of cream and fresh basil leaves.",
+    "preparationTime": 45,
+    "portions": 4,
+    "user": "user@gmail.com",
+    "category_id": 5,
+    "ingredients": [
+      [
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 2,
+            "title": "unit"
+          },
+          "ingredient": {
+            "id": 8,
+            "title": "onion"
+          }
+        },
+        {
+          "quantity": 2,
+          "measurement": {
+            "id": 6,
+            "title": "clove"
+          },
+          "ingredient": {
+            "id": 9,
+            "title": "garlic"
+          }
+        },
+        {
+          "quantity": 800,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 29,
+            "title": "tomatoes"
+          }
+        },
+        {
+          "quantity": 500,
+          "measurement": {
+            "id": 5,
+            "title": "milliliters"
+          },
+          "ingredient": {
+            "id": 30,
+            "title": "chicken broth"
+          }
+        },
+        {
+          "quantity": 10,
+          "measurement": {
+            "id": 1,
+            "title": "grams"
+          },
+          "ingredient": {
+            "id": 31,
+            "title": "basil"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 5,
+            "title": "salt"
+          }
+        },
+        {
+          "quantity": 1,
+          "measurement": {
+            "id": 4,
+            "title": "pinch"
+          },
+          "ingredient": {
+            "id": 6,
+            "title": "pepper"
+          }
+        },
+        {
+          "quantity": 4,
+          "measurement": {
+            "id": 2,
+            "title": "tablespoon"
+          },
+          "ingredient": {
+            "id": 32,
+            "title": "cream"
+          }
+        },
+        {
+          "quantity": 5,
+          "measurement": {
+            "id": 10,
+            "title": "leaf"
+          },
+          "ingredient": {
+            "id": 31,
+            "title": "fresh basil"
+          }
+        }
+      ]
+    ]
+  }
+]
